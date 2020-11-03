@@ -7,9 +7,9 @@ PRE REQUIREMENTS
 
 INSTALLATION:
 >To install Beautifull soup type the following in command prompt
-      pip install bs4
+      "pip install bs4"
 >To install requests type the following in command prompt
-      pip install requests
+      "pip install requests"
       
       
 INPUT:
